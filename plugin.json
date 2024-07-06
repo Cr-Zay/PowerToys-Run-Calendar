@@ -1,0 +1,14 @@
+{
+    "ID": "e51f8c5b13324fe2a5c9f8069071b7d4",
+    "ActionKeyword": ",",
+    "IsGlobal": false,
+    "Name": "Calendar",
+    "Author": "kianm",
+    "Version": "1.0.0",
+    "Language": "csharp",
+    "Website": "https://github.com/hlaueriksson/ConductOfCode",
+    "ExecuteFileName": "Community.PowerToys.Run.Plugin.Calendar.dll",
+    "IcoPathDark": "Images\\calendar.dark.png",
+    "IcoPathLight": "Images\\calendar.light.png",
+    "DynamicLoading": true
+}
